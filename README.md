@@ -1,7 +1,18 @@
-# Vue 3 + Vite
+### "Vuefolio" é um projeto dinâmico desenvolvido com o framework Vue.js. 
+ 
+ 
+Esse projeto é uma aplicação Vue que interage com o microfone usando a API de Reconhecimento de Fala do navegador e exibe a transcrição, além de permitir comandos de voz.
+ 
+**O que utilizei**
+* HTML e CSS;
+* Linguagem JavaScript;
+* FrameWork Vuejs;
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+**Execução**
+<div align="center">
+<img src="https://github.com/Arturstriker3/vs-recognition/assets/59231364/46818edf-2c50-46bf-9715-7bb23b25830d" width="auto" height="auto" />
+</div>
+<br/>
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+**Protótipo Interativo Stackblitz:** https://stackblitz.com/edit/vitejs-vite-awfegj
+<br/>
