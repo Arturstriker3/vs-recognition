@@ -1,5 +1,4 @@
-### "Vuefolio" é um projeto dinâmico desenvolvido com o framework Vue.js. 
- 
+### App para reconhecimento de voz e execução de comandos desenvolvido com o framework Vue.js. 
  
 Esse projeto é uma aplicação Vue que interage com o microfone usando a API de Reconhecimento de Fala do navegador e exibe a transcrição, além de permitir comandos de voz.
  
@@ -14,5 +13,5 @@ Esse projeto é uma aplicação Vue que interage com o microfone usando a API de
 </div>
 <br/>
 
-**Protótipo Interativo Stackblitz:** https://stackblitz.com/edit/vitejs-vite-awfegj
+**Protótipo Interativo Stackblitz:** https://stackblitz.com/edit/vitejs-vite-7n5f7u?file=index.html,README.md&terminal=dev
 <br/>
